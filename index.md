@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+<div class="blurb">
+	<h1>This is the Adam Witney Github Pages</h1>
+	<p>We can add some stuff here soon</p>
+</div><!-- /.blurb -->
+
