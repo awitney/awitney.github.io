@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Bioinformatics one liners"
 date:   2017-03-17
 categories: jekyll update
