@@ -5,8 +5,6 @@
 layout: default
 ---
 
-<div class="blurb">
-	<h1>This is the Adam Witney Github Pages</h1>
-	<p>We can add some stuff here soon</p>
-</div><!-- /.blurb -->
+<h1>Blog</h1>
+<h1>One liners</h1>
 
