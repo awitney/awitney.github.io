@@ -5,6 +5,6 @@
 layout: default
 ---
 
-<h1>Blog</h1>
-<h1>One liners</h1>
+<h2>Blog</h2>
+<h2>One liners</h2>
 
