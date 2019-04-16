@@ -24,7 +24,7 @@ github_username:  awitney
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
 exclude:
